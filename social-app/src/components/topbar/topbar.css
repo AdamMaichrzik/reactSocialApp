@@ -21,3 +21,7 @@
 	color: white;
 	cursor: pointer;
 }
+
+.topbarCenter {
+	flex: 5;
+}
