@@ -35,6 +35,11 @@
     align-items: center;
 }
 
+.searchIcon{
+    font-style: 20px !important;
+    margin-left: 10px;
+}
+
 .topbarRight {
 	flex: 4;
 }
