@@ -51,7 +51,13 @@
 
 .topbarRight {
 	flex: 4;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
 }
+
+
 
 .topbarImg {
 	width: 32px;
