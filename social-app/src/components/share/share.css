@@ -12,7 +12,7 @@
 
 .shareTop {
 	display: flex;
-	align-items: center; 
+	align-items: center;
 }
 
 .shareProfileImg {
@@ -23,15 +23,32 @@
 	margin-right: 10px;
 }
 
-.shareInput{
-    border: none;
-    width: 80%;
+.shareInput {
+	border: none;
+	width: 80%;
 }
 
-.shareInput:focus{
-    outline: none;
+.shareInput:focus {
+	outline: none;
 }
 
-.shareHr{
-    margin: 20px;
+.shareHr {
+	margin: 20px;
+}
+
+.shareBottom {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.shareOptions {
+	display: flex;
+}
+
+.shareOption{
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    cursor: pointer;
 }
