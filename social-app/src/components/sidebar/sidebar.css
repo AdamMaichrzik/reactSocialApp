@@ -1,6 +1,17 @@
 .sidebar {
 	flex: 3;
 	height: calc(100vh - 50px);
+	overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+	width: 5px;
+}
+::-webkit-scrollbar-track {
+	background-color: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+	background-color: rgb(173, 173, 173);
 }
 
 .sidebarWrapper {
@@ -17,7 +28,7 @@
 	display: flex;
 	align-items: center;
 	margin-bottom: 20px;
-    cursor: pointer;
+	cursor: pointer;
 }
 
 .sidebarIcon {
@@ -30,7 +41,7 @@
 	padding: 10px;
 	border-radius: 5px;
 	font-weight: 500;
-    cursor: pointer;
+	cursor: pointer;
 }
 
 .sidebarHr {
@@ -53,6 +64,6 @@
 	width: 32px;
 	height: 32px;
 	border-radius: 50%;
-    object-fit: cover;
-    margin-right: 10px;
+	object-fit: cover;
+	margin-right: 10px;
 }
