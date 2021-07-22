@@ -55,6 +55,12 @@ export default function Sidebar() {
 				</ul>
                 <button className="sidebarButton"> Show more</button>    
                 <hr className="sidebarHr"/>
+                <ul className="sidebarFriendList">
+                    <li className="sidebarFriend">
+                        <img src="/assets/person/1.jpeg" alt="" className="sidebarFriendImg"/>
+                        <span className="sidebarFriendName">Jane Doe</span>
+                    </li>
+                </ul>
 			</div>
 		</div>
 	);
