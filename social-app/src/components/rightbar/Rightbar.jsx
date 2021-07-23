@@ -22,6 +22,7 @@ export default function Rightbar() {
 							/>
                             <span className="rightbarOnline"></span>
 						</div>
+                        <span className="rightbarUsername">Felicia Perpendoloni</span>
 					</li>
 				</ul>
 			</div>
