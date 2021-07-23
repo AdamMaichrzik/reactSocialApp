@@ -26,8 +26,8 @@ export default function Profile() {
 								/>
 							</div>
                             <div className="profileInfo">
-                                <h4 className="profileInfoName">Adam Maichrzik</h4>
-                                <span className="profileInfoDesc">Hello. It's me, Adam! </span>
+                                <h4 className="profileInfoName">Natalie Smith</h4>
+                                <span className="profileInfoDesc">Hello. It's me, Natalie! </span>
                             </div>
 						</div>
 						<div className="profileRightBottom">
