@@ -13,10 +13,10 @@ You can learn more from him [here](https://www.youtube.com/channel/UCOxWrX5MIdXI
 # Website screenshots
 
 ## Home page
-![Website screenshoot](public/assets/projectScreenshots/homePage.png)
+![Website screenshoot](social-app/public/assets/projectScreenshots/homePage.png)
 ## Profile page
-![Website screenshoot](public/assets/projectScreenshots/profilePage.png)
+![Website screenshoot](social-app/public/assets/projectScreenshots/profilePage.png)
 ## Login page
-![Website screenshoot](public/assets/projectScreenshots/loginPage.png)
+![Website screenshoot](social-app/public/assets/projectScreenshots/loginPage.png)
 ## Register page
-![Website screenshoot](public/assets/projectScreenshots/registerPage.png)
+![Website screenshoot](social-app/public/assets/projectScreenshots/registerPage.png)
