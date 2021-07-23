@@ -40,5 +40,21 @@
 	border-radius: 10px;
 	display: flex;
 	flex-direction: column;
-    justify-content: space-between;
+	justify-content: space-between;
+}
+
+.loginInput {
+	height: 50px;
+	border-radius: 10px;
+	border: 1px solid gray;
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.loginInput:focus{
+    outline: none;
+}
+
+.loginButton{
+
 }
