@@ -24,6 +24,50 @@ export default function Rightbar() {
 						</div>
                         <span className="rightbarUsername">Felicia Perpendoloni</span>
 					</li>
+					<li className="rightbarFriend">
+						<div className="rightbarProfileImgContainer">
+							<img
+								className="rightbarProfileImg"
+								src="assets/person/5.jpeg"
+								alt=""
+							/>
+                            <span className="rightbarOnline"></span>
+						</div>
+                        <span className="rightbarUsername">Felicia Perpendoloni</span>
+					</li>
+					<li className="rightbarFriend">
+						<div className="rightbarProfileImgContainer">
+							<img
+								className="rightbarProfileImg"
+								src="assets/person/5.jpeg"
+								alt=""
+							/>
+                            <span className="rightbarOnline"></span>
+						</div>
+                        <span className="rightbarUsername">Felicia Perpendoloni</span>
+					</li>
+					<li className="rightbarFriend">
+						<div className="rightbarProfileImgContainer">
+							<img
+								className="rightbarProfileImg"
+								src="assets/person/5.jpeg"
+								alt=""
+							/>
+                            <span className="rightbarOnline"></span>
+						</div>
+                        <span className="rightbarUsername">Felicia Perpendoloni</span>
+					</li>
+					<li className="rightbarFriend">
+						<div className="rightbarProfileImgContainer">
+							<img
+								className="rightbarProfileImg"
+								src="assets/person/5.jpeg"
+								alt=""
+							/>
+                            <span className="rightbarOnline"></span>
+						</div>
+                        <span className="rightbarUsername">Felicia Perpendoloni</span>
+					</li>
 				</ul>
 			</div>
 		</div>
