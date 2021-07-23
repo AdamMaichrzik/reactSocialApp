@@ -63,6 +63,10 @@ export default function Rightbar({ profile }) {
 						<img className="rightbarFollowingImg" src="assets/person/7.jpeg" alt=""/>
 						<span className="rightbarFollowingName">John Carter</span>
 					</div>
+					<div className="rightbarFollowing">
+						<img className="rightbarFollowingImg" src="assets/person/7.jpeg" alt=""/>
+						<span className="rightbarFollowingName">John Carter</span>
+					</div>
 				</div>
 			</>
 		);
